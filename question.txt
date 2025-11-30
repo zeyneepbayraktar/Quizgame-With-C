@@ -1,0 +1,34 @@
+What is the entry point function of every C program?
+1. start()
+2. void()
+3. main()
+4. function()
+3
+
+What symbol is used to indicate the end of a statement in C?
+1. Colon (:)
+2. Semicolon (;)
+3. Period (.)
+4. Comma (,)
+2
+
+Which operator is used to find the remainder of a division?
+1. Division (/)
+2. Multiplication (*)
+3. Modulo (%)
+4. Increment (++)
+3
+
+Which header file is required for input and output operations (like printf and scanf)?
+1. stdlib.h
+2. stdio.h
+3. string.h
+4. math.h
+2
+
+In C, what data type is typically used to store a single character?
+1. int
+2. float
+3. char
+4. string
+3
